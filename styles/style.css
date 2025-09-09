@@ -343,8 +343,3 @@
     display: flex;
     flex-direction: column;
 }
-
-.url_underline {
-    text-underline-offset: 4px;
-    text-decoration-thickness: 1px;
-}
